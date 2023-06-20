@@ -18,4 +18,4 @@ Cas 3 :Si n'a pas enregistrer il faut clicker sur le button registrer</br>
 -L'enseignant peut chercher un étudiant par son id en entrer l'id et clique sur le boutton CHERCHER(erreur si aucun étudiant n'existe avec cette id)</br>
 -L'enseignant peut actualiser la liste des étudiants après chaque modification avec une clique sur le boutton ACTUALISER</br>
 
-<h1>Remarque</h1>En peut trouve plusieurs interfaces enseignant à la foix chaque enseignnat voir les modofcations de l'autre donc les donnés sont partagable</br>
+<h1>Remarque</h1>En peut trouve plusieurs interfaces enseignant à la foix chaque enseignant voir les modifications de l'autre donc les donnés sont partagable</br>

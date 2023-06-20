@@ -8,8 +8,8 @@ Cas 1: Si le mot de passe incorrecte il va afficher un message d'erreur</br>
 Cas 2 :Si le mot de passe correcte il va afficher l'interface étudiant</br>
 Cas 3 :Si n'a pas enregistrer il faut clicker sur le button registrer</br>
 
-<h1>Etape 3</h1>-Cas3:L'interface Registee</br>
--L'enseignant il faut peut créer un compte en saisissant les informations (Nom,Prénon) et en cliquant sur le bouton "Registrer"</br>
+<h1>Etape 3</h1>-Cas3:L'interface Register</br>
+-L'enseignant il faut peut créer un compte en saisissant les informations (Nom,Prénom) et en cliquant sur le bouton "Registrer"</br>
 
 <h1>Etape 4</h1>-Cas2:L'interface étudiant</br>
 -L'enseignant peut ajouter un étudiant en saisissant les informations et clique sur le boutton AJOUTER(erreur si l'étudiant a ajouter dèja existe)</br>
